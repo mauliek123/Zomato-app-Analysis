@@ -1,0 +1,1 @@
+This project aims to analyze data from Zomata, a restaurant discovery and food delivery platform, to derive meaningful insights. The analysis includes exploring restaurant details, customer reviews, ratings, and other relevant data to understand trends and patterns in the food and restaurant industry.
